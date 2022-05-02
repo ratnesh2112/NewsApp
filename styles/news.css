@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(216, 21, 184);
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#detailed_news {
+
+    margin-top: 25px;
+    text-align: center;
+}
+#detailed_news div img{
+    width: 80%;
+}

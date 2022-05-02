@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(216, 21, 184);
+    border-radius: 25px;
+}
+#sidebar{
+    width:7%;
+    border: 2px solid violet;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+#results{
+    text-align: center;
+    margin-top: -200px;
+}
+#results div img{
+    width: 80%;
+}
